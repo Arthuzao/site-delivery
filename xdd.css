@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #FF7A00;
+}
+
+.dd {
+    font-size: 2rem;
+    color: white;
+    gap: 3%;
+    display: flex;
+   justify-content: center;
+   padding: 5%;
+}
+#cd{color:  white;
+    display:  flex;
+    justify-content: center;
+    font-size: 2rem;}
+    .aa{width: 250px;}
+    #b {
+        background-color: #FF7A00;
+        left: 190vh;
+        width: 70px;
+        height: 25px;
+    }

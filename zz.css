@@ -1,0 +1,15 @@
+.mar{margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 2rem;}
+    #s{margin-left: 80vh;
+        margin-right: 80vh;
+        font-size: 2rem;
+        margin-top: 10px;
+    }
+    #b {
+        background-color: #FF7A00;
+        left: 190vh;
+        width: 70px;
+        height: 25px;
+    }

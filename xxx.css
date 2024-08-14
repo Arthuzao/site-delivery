@@ -1,0 +1,11 @@
+body{background-color: #FF7A00;}
+#tt{ color:  white;
+display:  flex;
+justify-content: center;
+font-size: 2rem;}
+#b {
+    background-color: #FF7A00;
+    left: 190vh;
+    width: 70px;
+    height: 25px;
+}
